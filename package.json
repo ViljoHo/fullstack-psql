@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-psql",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ViljoHo/fullstack-psql#readme",
+  "bugs": {
+    "url": "https://github.com/ViljoHo/fullstack-psql/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViljoHo/fullstack-psql.git"
+  },
+  "license": "ISC",
+  "author": "Viljo Holma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "pg": "^8.18.0",
+    "sequelize": "^6.37.7"
+  }
+}
